@@ -112,14 +112,8 @@ A modern fantasy cricket web application built with React, featuring player sele
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mdsiam2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiam2007&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="./profile/stats.svg" alt="MD Siam GitHub Statistics" height="180" />
+  <img src="./profile/top-langs.svg" alt="MD Siam Top Languages" height="180" />
 </p>
 
 ---
