@@ -174,9 +174,7 @@ A modern fantasy cricket web application built with React, featuring player sele
 📧 <b>Email:</b> <a href="mailto:siam2007net@gmail.com">
 [siam2007net@gmail.com](mailto:siam2007net@gmail.com) </a>
 
-  •  
-
-📍 <b>Location:</b> Bangladesh
+📍 <b>Location:</b> Mymensingh, Bangladesh
 
 </p>
 
