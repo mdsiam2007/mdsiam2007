@@ -8,12 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=MD%20SIAM&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Python%20%7C%20AI&descAlignY=60&descSize=18" width="100%" />
 </p>
 
-<!-- ========================= -->
-
-<!--          INTRO            -->
-
-<!-- ========================= -->
-
 <h1 align="center">Hi 👋, I'm MD Siam</h1>
 
 <h3 align="center">
@@ -87,17 +81,9 @@ I believe in learning by building, improving through real projects, and continuo
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </p>
 
-### 🤖 AI & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript" />
-</p>
-
 ---
 
 ## 📌 Featured Projects
-
-> A selection of projects that represent my learning journey and development experience.
 
 ### 🍔 Food Delivery & Restaurant Platform
 
@@ -126,16 +112,25 @@ A modern fantasy cricket web application built with React, featuring player sele
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsiam2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiam2007&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdsiam2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiam2007&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdsiam2007&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=mdsiam2007&theme=tokyonight&hide_border=true"
+    alt="MD Siam GitHub Streak"
+  />
 </p>
 
 ---
@@ -143,14 +138,18 @@ A modern fantasy cricket web application built with React, featuring player sele
 ## 🐍 My Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdsiam2007/mdsiam2007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/mdsiam2007/mdsiam2007/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://mdsiam2007.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -160,15 +159,7 @@ A modern fantasy cricket web application built with React, featuring player sele
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add your LinkedIn -->
-
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<!-- Add your Facebook -->
-
-<a href="YOUR_FACEBOOK_URL" target="_blank">
+<a href="https://www.facebook.com/mdsiam2007" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -178,16 +169,15 @@ A modern fantasy cricket web application built with React, featuring player sele
 
 ## 📫 Contact Me
 
-<p align="left">
-  💼 Portfolio: <a href="https://mdsiam2007.netlify.app/">mdsiam2007.netlify.app</a>
-</p>
+<p align="center">
 
-<p align="left">
-  📧 Email: <b>siam2007net@gmail.com</b>
-</p>
+📧 <b>Email:</b> <a href="mailto:siam2007net@gmail.com">
+[siam2007net@gmail.com](mailto:siam2007net@gmail.com) </a>
 
-<p align="left">
-  📍 Mymensingh, Bangladesh
+  •  
+
+📍 <b>Location:</b> Bangladesh
+
 </p>
 
 ---
